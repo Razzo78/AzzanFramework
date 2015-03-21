@@ -30,7 +30,7 @@ namespace System
 		/// <returns>
 		/// 	<c>true</c> if the string is a float number othertwise, <c>false</c>.
 		/// </returns>
-		public static bool IsNumericFP(this String pValue)
+		public static bool IsNumericFloatingPoint(this String pValue)
 		{
 			bool isNum;
 			double retNum;
