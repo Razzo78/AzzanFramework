@@ -4,6 +4,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzzanCoreUniversal", "AzzanCoreUniversal\AzzanCoreUniversal.csproj", "{2A304371-A3D7-4D3B-9CAB-9CE58F9A733B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzzanNetUniversal", "AzzanNetUniversal\AzzanNetUniversal.csproj", "{87768B4C-53AF-444B-9049-769B3966FDA5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -14,6 +16,10 @@ Global
 		{2A304371-A3D7-4D3B-9CAB-9CE58F9A733B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A304371-A3D7-4D3B-9CAB-9CE58F9A733B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A304371-A3D7-4D3B-9CAB-9CE58F9A733B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87768B4C-53AF-444B-9049-769B3966FDA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87768B4C-53AF-444B-9049-769B3966FDA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87768B4C-53AF-444B-9049-769B3966FDA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87768B4C-53AF-444B-9049-769B3966FDA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
